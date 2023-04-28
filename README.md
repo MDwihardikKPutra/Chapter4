@@ -1,10 +1,3 @@
-NAMA : Dio Aulia Ari Kurnia Sandi
-
-KELAS : TI 3C
-
-NIM : 2041720086
-
-
 Kode 1 : myList, myschema 
 Digunakan untuk membuat list dan schema pada awal untuk membuat Dataframe
 
